@@ -82,18 +82,87 @@ Un contenedor que mejora la experiencia visual y funcional de formularios, agreg
 ---
 
 ## 📸 Capturas de pantalla
+1
 
-### 🧩 Combinación de Badges, Botones, Checkboxes y más:
-![Badges y Checkboxes](./screenshots/badges_checkboxes.png)
+<img width="500" height="55" alt="image" src="https://github.com/user-attachments/assets/cc272b77-0cae-4009-b6d6-f2ad47c068da" />
 
-### 🧩 Paneles de Expansión, Inputs, Selects y Textareas:
-![Expansion Panel y Form Fields](./screenshots/expansion_inputs.png)
+2
 
-### 🧩 Listas, Sliders, Snack-bars y Radios:
-![List, Radios y Snack-bar](./screenshots/list_slider_snackbar.png)
+<img width="344" height="267" alt="image" src="https://github.com/user-attachments/assets/5302b1e4-4e42-4238-b6f5-5b19cd37b577" />
 
-### 🧩 Estructura del proyecto en VS Code:
-![Estructura](./screenshots/estructura_componentes.png)
+3
+
+<img width="319" height="63" alt="image" src="https://github.com/user-attachments/assets/02aab9cf-2161-4f45-a34c-992334974a7a" />
+
+4
+
+<img width="266" height="191" alt="image" src="https://github.com/user-attachments/assets/98c1778e-035b-4c44-9c3f-b1c98409ec8a" />
+
+5
+
+<img width="378" height="33" alt="image" src="https://github.com/user-attachments/assets/69ebf9d5-3191-42d0-9136-fb77aca08ecb" />
+
+
+<img width="391" height="50" alt="image" src="https://github.com/user-attachments/assets/211c4456-6594-4c07-ace0-99e3ee0f65a6" />
+
+6
+
+<img width="1570" height="130" alt="image" src="https://github.com/user-attachments/assets/3e821840-5d86-4668-883a-cda1fc93fe00" />
+
+
+7
+
+<img width="1581" height="145" alt="image" src="https://github.com/user-attachments/assets/ddc35abd-95a7-4a3a-aef9-a6caaac8706b" />
+
+8
+
+<img width="222" height="235" alt="image" src="https://github.com/user-attachments/assets/826f16ba-13a0-4c1b-8381-93282afc951f" />
+
+9
+
+<img width="289" height="97" alt="image" src="https://github.com/user-attachments/assets/01c918fe-856c-441a-bf0a-0d8363357706" />
+
+10
+
+<img width="516" height="79" alt="image" src="https://github.com/user-attachments/assets/a6493784-d173-4478-bc68-f41985ed5b22" />
+
+
+<img width="533" height="91" alt="image" src="https://github.com/user-attachments/assets/dbc70091-3959-414a-aaf6-fa7f81e0fd22" />
+
+11
+
+<img width="1577" height="258" alt="image" src="https://github.com/user-attachments/assets/49fc1ef2-9cb5-4d40-b14d-cbdff804d851" />
+
+12
+
+<img width="219" height="87" alt="image" src="https://github.com/user-attachments/assets/e203cc8d-4336-48b5-b66c-cc7aacda0522" />
+
+13
+
+<img width="314" height="67" alt="image" src="https://github.com/user-attachments/assets/c759a1cc-56cc-446e-b4b9-27c9c01eea3b" />
+
+14
+
+<img width="436" height="60" alt="image" src="https://github.com/user-attachments/assets/b4de5a84-03be-4851-9b43-44a453c8a695" />
+
+15
+<img width="1599" height="17" alt="image" src="https://github.com/user-attachments/assets/01ba0eb7-aa58-4cff-98af-cb85a388d10c" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
